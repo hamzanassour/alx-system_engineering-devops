@@ -1,2 +1,3 @@
 #!/bin/bash
-export PATH=$PATH:/location
+export PATH=$PATH:/action
+
